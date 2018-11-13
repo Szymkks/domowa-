@@ -1,0 +1,50 @@
+
+	background-color:lightgray;
+	font-family: Georgia;
+	font-size: 30px;
+}
+#container
+{
+   widht:150px;
+   margin-left:auto;
+   margin-right:auto;
+}
+#logo
+{	color:green;
+    font-style: italic;
+	margin-top:10px;
+	font-size:40px;
+	font-weight:700;
+	padding:10px;
+}	
+
+#menu
+{
+	background-color:red;
+	margin-top:20px;
+	font-size:5px;
+	padding:10px;
+	
+	
+	
+}
+
+.option
+{
+	float:left;
+	min-widht:20px;
+	min-height:25;
+	font-size:25px;
+	padding:5px;   
+   
+	border-right:2px solid;
+	
+}	
+
+.option:hover
+{
+	background-color:snow;
+	cursor:pointer;
+	
+}
+	
