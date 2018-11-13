@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+     
+	 <meta charset="utf-8">
+	 <title>Gry Symulacyjne</title>
+     <link rel="stylesheet" type="text/css" href="style.css">
+
+<style>
+      <fieldset> {background-color:darkblue;}
+	  <fieldset> {border-color: black;}
+      
+</style>
+
+
+	   
+	   
+	   
+	   
+
+
+
+</head>
+
+<body>
+     
+	 <div id="container">
+     <fieldset> <div id="logo">Gry Symulacyjne </div> </fieldset>
+	 
+	 <div id="menu">
+	 <div class="option">Strona główna</div>
+     <div class="option">Recenzja gier</div> 	 
+	 <div class="option">Gry</div> 
+	 <div class="option">Forum</div> 
+	 <div style="clear:both;"></div>
+	 </div>
+	 
+
+
+
+
+
+	   
+
+
+
+</body>
+</html>
